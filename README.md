@@ -6,8 +6,7 @@ This repository contains an interactive **Power BI Dashboard** designed to analy
 ---
 
 ## 📷 Dashboard Preview
-![Customer Churn Dashboard](Screenshot 2026-06-16 082536-customer churn.png)
-
+![Customer Churn Dashboard](./Screenshot%202026-06-16%20082536-customer%20churn.png)
 ---
 
 ## 💡 Key Business Insights & KPIs
